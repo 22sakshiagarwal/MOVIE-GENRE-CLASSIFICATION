@@ -1,6 +1,4 @@
-Of course! Here's an even more **professional, polished README** you can directly use for your GitHub repository:
 
----
 
 # 🎬 Movie Genre Classification Using NLP
 
